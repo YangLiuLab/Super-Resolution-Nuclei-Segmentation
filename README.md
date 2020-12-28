@@ -33,4 +33,4 @@ Have a folder ready containing super-resolution images.  When running code on th
 
 ### Training
 
-Have a folder containing your training images and another containing a training label for each image.  See examples folder.  Images and Labels should share the same name.
+Have a folder containing your training images and another containing a training label for each image.  See examples folder.  Images and Labels should share the same name. Labels can be created with sequential numbering (e.g. 1,2,3...) (see Tissue --> Labels) or binary (see Cell Line --> Labels).

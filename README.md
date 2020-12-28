@@ -34,3 +34,8 @@ Have a folder ready containing super-resolution images.  When running code on th
 ### Training
 
 Have a folder containing your training images and another containing a training label for each image.  See examples folder.  Images and Labels should share the same name. Labels can be created with sequential numbering (e.g. 1,2,3...) (see Tissue --> Labels) or binary (see Cell Line --> Labels).
+
+### Pre-Trained Weights
+
+We are including some pre-trained weights for each network, accessible here: https://drive.google.com/drive/folders/1yKxyXkk4ceXoDpd647i1_-JWLjzKOY7t?usp=sharing
+Weights can be used for testing or as a base for additional training (for Mask R-CNN).

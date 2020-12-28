@@ -18,6 +18,9 @@ https://colab.research.google.com/drive/1FFy5WCqr1taCBQtnyIozinyzRwHkZHAd?usp=sh
 ### UNet Local
 https://colab.research.google.com/drive/1AGK0Q_0ywWgb3-QaEu3gZrSR0lPAKPcj?usp=sharing
 
+### Image Tile
+https://colab.research.google.com/drive/1bKRAsfe3zTPUmidUgi5116pbGH9TLDVZ?usp=sharing
+
 ### Image Tile Local
 https://colab.research.google.com/drive/17bZ5Mdre74oVXY_SR4byhUSOxjjBOW4A?usp=sharing
 

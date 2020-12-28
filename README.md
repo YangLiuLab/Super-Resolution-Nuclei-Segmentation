@@ -22,3 +22,15 @@ https://colab.research.google.com/drive/1AGK0Q_0ywWgb3-QaEu3gZrSR0lPAKPcj?usp=sh
 https://colab.research.google.com/drive/17bZ5Mdre74oVXY_SR4byhUSOxjjBOW4A?usp=sharing
 
 *Local Files require connecting to local PC, to use local resources, see instructions in notebook header.
+
+Use reselectPredictions.py for editing neural network predictions using python on local pc.
+
+## General Instructions
+
+### Testing
+
+Have a folder ready containing super-resolution images.  When running code on the Colab (non-local) network, select each image to upload or place images in your Drive folder and note the path.
+
+### Training
+
+Have a folder containing your training images and another containing a training label for each image.  See examples folder.  Images and Labels should share the same name.

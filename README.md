@@ -1,5 +1,8 @@
 # Super-Resolution-Nuclei-Segmentation
-## Convenient Colab notebooks for conducting computational segmentation of super-resolution cell nuclei
+## Convenient Colab notebooks for conducting computational segmentation of super-resolution (STORM) images of cell nuclei from cultured cells and tissue
+We optimized CNN-based nuclei segmentation for single-molecule localization-based (e.g., STORM or PALM) super-resolution images. Colab notebooks that can be executed in both google Cloud-based and local runtime. The local run-time version is suited for large dataset when uploading images is slow.
+We provided some sample STORM images of cell nuclei and labeled images from cultured cells and tissue in the "Examples" folder. 
+For very large image size (e.g., 10240x10240 or 20480x20480 pixels), "Image Tile" notebook is used to split them into 5120x5120 suited for STORM-based nuclei segmentation. 
 
 ### Links for Colab Files:
 

@@ -4,6 +4,9 @@ We optimized CNN-based nuclei segmentation for single-molecule localization-base
 We provided some sample STORM images of cell nuclei and labeled images from cultured cells and tissue in the "Examples" folder. 
 For very large image size (e.g., 10240x10240 or 20480x20480 pixels), "Image Tile" notebook is used to split them into 5120x5120 suited for STORM-based nuclei segmentation. 
 
+Please cite the following paper for the use of the code: 
+Mela CA, Liu Y. Application of convolutional neural networks towards nuclei segmentation in localization-based super-resolution fluorescence microscopy images. BMC Bioinformatics, 2021; 22, 325.
+
 ### Links for Colab Files:
 
 ### Mask R-CNN
